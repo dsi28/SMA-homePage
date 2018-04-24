@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Suarez Martial Arts</string>
+    <string name="address">125 NW 13th Street\n Boca Raton, FL 33432</string>
+    <string name="phone">(561) 306-1079</string>
+    <string name="web">suarezmartialarts.com</string>
+    <string name="disc">Real world self-defense classes\nthat will keep you safe!</string>
+    <string name="hours">Hours:\nMonday-Friday\n8am-5pm</string>
+    <string name="email">Email Us</string>
+    <string name="subject">Suarez Martial Arts Contact</string>
+    <string name="mailto">mailto:dsi28@hotmail.com</string>
+    <string name="emailText">I would like more info!</string>
+</resources>
